@@ -19,7 +19,7 @@ status-website:
   introMessage:  Page Status
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
