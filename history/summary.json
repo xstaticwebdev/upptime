@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 530,
-    "timeWeek": 530,
-    "timeMonth": 530,
-    "timeYear": 530,
+    "time": 473,
+    "timeDay": 473,
+    "timeWeek": 473,
+    "timeMonth": 473,
+    "timeYear": 473,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 395,
-    "timeWeek": 395,
-    "timeMonth": 395,
-    "timeYear": 395,
+    "time": 356,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Fako",
+    "url": "https://fakofakofako.me",
+    "icon": "https://favicons.githubusercontent.com/fakofakofako.me",
+    "slug": "fako",
+    "status": "down",
+    "uptime": "13.37%",
+    "uptimeDay": "13.37%",
+    "uptimeWeek": "13.37%",
+    "uptimeMonth": "13.37%",
+    "uptimeYear": "13.37%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-12-06": 0
+    }
   }
 ]
