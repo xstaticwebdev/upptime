@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.xstatic.io",
     "slug": "xstatic",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 283,
-    "timeDay": 191,
-    "timeWeek": 269,
-    "timeMonth": 303,
-    "timeYear": 283,
-    "dailyMinutesDown": {
-      "2022-02-05": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 279,
+    "timeDay": 130,
+    "timeWeek": 255,
+    "timeMonth": 296,
+    "timeYear": 279,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Daily Lows",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 247,
-    "timeDay": 385,
-    "timeWeek": 267,
-    "timeMonth": 250,
-    "timeYear": 247,
+    "time": 245,
+    "timeDay": 56,
+    "timeWeek": 250,
+    "timeMonth": 248,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2021-12-15": 20
     }
@@ -56,7 +54,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-05": 1185,
+      "2022-02-06": 25,
+      "2022-02-05": 1440,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
