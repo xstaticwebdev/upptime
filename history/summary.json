@@ -4,18 +4,20 @@
     "url": "https://www.xstatic.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.xstatic.io.ico",
     "slug": "xstatic",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 358,
-    "timeDay": 205,
-    "timeWeek": 272,
-    "timeMonth": 361,
-    "timeYear": 358,
-    "dailyMinutesDown": {}
+    "time": 361,
+    "timeDay": 901,
+    "timeWeek": 437,
+    "timeMonth": 400,
+    "timeYear": 361,
+    "dailyMinutesDown": {
+      "2022-11-30": 0
+    }
   },
   {
     "name": "Daily Lows",
@@ -54,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-11-30": 35,
+      "2022-11-30": 153,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
