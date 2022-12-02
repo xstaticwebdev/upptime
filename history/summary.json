@@ -6,14 +6,14 @@
     "slug": "xstatic",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.73%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 362,
-    "timeDay": 858,
-    "timeWeek": 466,
-    "timeMonth": 392,
+    "timeDay": 516,
+    "timeWeek": 490,
+    "timeMonth": 394,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2022-11-30": 33
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 344,
-    "timeDay": 376,
-    "timeWeek": 330,
-    "timeMonth": 314,
-    "timeYear": 344,
+    "time": 345,
+    "timeDay": 862,
+    "timeWeek": 403,
+    "timeMonth": 325,
+    "timeYear": 345,
     "dailyMinutesDown": {
       "2021-12-15": 20
     }
@@ -56,7 +56,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-01": 38,
+      "2022-12-02": 32,
+      "2022-12-01": 1440,
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
