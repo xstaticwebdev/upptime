@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.xstatic.io.ico",
     "slug": "xstatic",
     "status": "down",
-    "uptime": "86.78%",
+    "uptime": "86.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "82.97%",
+    "uptimeYear": "82.76%",
     "time": 329,
     "timeDay": 161,
     "timeWeek": 100,
     "timeMonth": 135,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2023-03-22": 30,
+      "2023-03-22": 1124,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -88,9 +88,9 @@
     "url": "https://www.dailylows.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.dailylows.com.ico",
     "slug": "daily-lows",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -99,7 +99,9 @@
     "timeWeek": 595,
     "timeMonth": 527,
     "timeYear": 399,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-22": 0
+    }
   },
   {
     "name": "Fako",
@@ -118,7 +120,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-22": 30,
+      "2023-03-22": 1124,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
