@@ -16,7 +16,7 @@
     "timeMonth": 135,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2023-03-22": 1124,
+      "2023-03-22": 1127,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -88,19 +88,19 @@
     "url": "https://www.dailylows.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.dailylows.com.ico",
     "slug": "daily-lows",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 361,
-    "timeDay": 752,
-    "timeWeek": 595,
-    "timeMonth": 527,
-    "timeYear": 399,
+    "time": 360,
+    "timeDay": 442,
+    "timeWeek": 537,
+    "timeMonth": 513,
+    "timeYear": 398,
     "dailyMinutesDown": {
-      "2023-03-22": 0
+      "2023-03-22": 4
     }
   },
   {
@@ -120,7 +120,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-22": 1124,
+      "2023-03-22": 1127,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
