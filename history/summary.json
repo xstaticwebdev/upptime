@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.xstatic.io.ico",
     "slug": "xstatic",
     "status": "down",
-    "uptime": "61.63%",
+    "uptime": "61.62%",
     "uptimeDay": "34.43%",
     "uptimeWeek": "4.92%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 307,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2023-09-30": 275,
+      "2023-09-30": 319,
       "2023-09-29": 1381,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -310,7 +310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-30": 712,
+      "2023-09-30": 756,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
