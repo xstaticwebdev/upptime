@@ -6,8 +6,8 @@
     "slug": "xstatic",
     "status": "down",
     "uptime": "61.63%",
-    "uptimeDay": "30.83%",
-    "uptimeWeek": "4.40%",
+    "uptimeDay": "30.84%",
+    "uptimeWeek": "4.41%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "30.34%",
     "time": 288,
@@ -16,7 +16,7 @@
     "timeMonth": 309,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2023-09-30": 244,
+      "2023-09-30": 255,
       "2023-09-29": 1381,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
@@ -310,7 +310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-30": 629,
+      "2023-09-30": 640,
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
