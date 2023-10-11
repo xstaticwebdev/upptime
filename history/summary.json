@@ -5,13 +5,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.xstatic.io.ico",
     "slug": "xstatic",
     "status": "down",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "53.20%",
-    "uptimeWeek": "67.73%",
-    "uptimeMonth": "92.57%",
-    "uptimeYear": "99.38%",
-    "time": 348,
-    "timeDay": 235,
+    "uptimeWeek": "68.01%",
+    "uptimeMonth": "92.64%",
+    "uptimeYear": "99.39%",
+    "time": 347,
+    "timeDay": 236,
     "timeWeek": 259,
     "timeMonth": 421,
     "timeYear": 340,
@@ -21,7 +21,7 @@
       "2023-10-09": 599,
       "2023-10-08": 610,
       "2023-10-07": 606,
-      "2023-10-06": 406
+      "2023-10-06": 377
     }
   },
   {
@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-11": 889,
+      "2023-10-11": 911,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
