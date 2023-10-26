@@ -6,12 +6,12 @@
     "slug": "xstatic",
     "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "59.26%",
-    "uptimeWeek": "67.05%",
-    "uptimeMonth": "92.42%",
+    "uptimeDay": "59.61%",
+    "uptimeWeek": "67.36%",
+    "uptimeMonth": "92.49%",
     "uptimeYear": "99.37%",
     "time": 338,
-    "timeDay": 218,
+    "timeDay": 220,
     "timeWeek": 245,
     "timeMonth": 368,
     "timeYear": 332,
@@ -21,7 +21,7 @@
       "2023-10-24": 571,
       "2023-10-23": 622,
       "2023-10-22": 529,
-      "2023-10-21": 510
+      "2023-10-21": 478
     }
   },
   {
@@ -59,7 +59,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-26": 1011,
+      "2023-10-26": 1016,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
