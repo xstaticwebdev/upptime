@@ -6,17 +6,16 @@
     "slug": "xstatic",
     "status": "up",
     "uptime": "81.67%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "43.93%",
-    "uptimeYear": "56.56%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "44.75%",
+    "uptimeYear": "56.54%",
     "time": 329,
-    "timeDay": 1517,
-    "timeWeek": 749,
-    "timeMonth": 880,
+    "timeDay": 1516,
+    "timeWeek": 744,
+    "timeMonth": 849,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2024-04-19": 5,
       "2024-04-08": 22,
       "2024-04-05": 1168,
       "2024-04-04": 1440,
@@ -179,7 +178,7 @@
       "2023-10-30": 645,
       "2023-10-29": 517,
       "2023-10-28": 539,
-      "2023-10-27": 485
+      "2023-10-27": 562
     }
   },
   {
@@ -188,18 +187,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dailylows.com.ico",
     "slug": "daily-lows",
     "status": "down",
-    "uptime": "92.28%",
+    "uptime": "92.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.71%",
+    "uptimeYear": "81.64%",
     "time": 433,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 437,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2024-04-19": 1112,
+      "2024-04-20": 30,
+      "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
       "2024-04-16": 1440,
@@ -285,7 +285,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-19": 1112,
+      "2024-04-20": 30,
+      "2024-04-19": 1440,
       "2024-04-18": 1440,
       "2024-04-17": 1440,
       "2024-04-16": 1440,
@@ -648,8 +649,7 @@
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
-      "2023-04-22": 1440,
-      "2023-04-21": 1440
+      "2023-04-22": 1440
     }
   }
 ]
